@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# AI Agent Engineer
 
-_Get started using GitHub in less than an hour._
+_SCU 28届 计算机科学与技术专业._
 
 </header>
 
