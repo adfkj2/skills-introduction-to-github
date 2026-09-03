@@ -9,7 +9,9 @@
 
 # AI Agent Engineer
 
-_SCU 28届 计算机科学与技术专业._
+SCU 28届 计算机科学与技术专业
+
+_AGI is the future, but the Agent is the present practice of that future._
 
 </header>
 
