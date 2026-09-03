@@ -24,7 +24,7 @@ _AGI is the future, but the Agent is the present practice of that future._
 
 _相关agent项目_
 
-等我水两个
+1. medical-qa-agent
 
 
 
